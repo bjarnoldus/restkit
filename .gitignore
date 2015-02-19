@@ -28,3 +28,4 @@ doc/_build/
 distribute-*
 .coverage
 .tox
+*.bak*

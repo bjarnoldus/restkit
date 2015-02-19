@@ -25,7 +25,7 @@ Features
 - Streaming support
 - Proxy handling
 - HTTP Filters, you can hook requests in responses with your own callback
-- Compatible with Python 2.x (>= 2.6)
+- Patched for Python 3.x
 
 Documentation
 -------------
